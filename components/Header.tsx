@@ -48,7 +48,7 @@ export default function Header() {
                         <Instagram className="w-6 h-6 md:w-5 md:h-5" />
                     </div>
                     </Link></li>
-                    <li><Link href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63467.9582650488!2d106.78321594753318!3d-6.164574499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5e38ed917d7%3A0xdc95f7ac5e8fdfdc!2sTunas%20Toyota%20Pecenongan!5e0!3m2!1sid!2sid!4v1738543603660!5m2!1sid!2sid" className="block py-2 md:py-0 text-white hover:text-red-500">
+                    <li><Link href="https://maps.app.goo.gl/4Rcaq52AYn8gLwNj9" className="block py-2 md:py-0 text-white hover:text-red-500">
                     <div className="group flex relative">
                         <p className='text-sm  absolute -top-6 left-1/2 transform -translate-x-1/2 hidden lg:group-hover:block  text-red-500  rounded-lg transition-all duration-700 shadow-sm'>Map</p>
                         <MapPin className="w-6 h-6 md:w-5 md:h-5" />
